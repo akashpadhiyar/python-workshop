@@ -10,3 +10,4 @@ if avg > 80:
     print("Pass")
 else:
     print("Fail")
+print("Line Added at Indus University")
